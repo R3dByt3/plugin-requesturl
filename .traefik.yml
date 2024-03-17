@@ -1,6 +1,6 @@
 displayName: Request URL
 type: middleware
-import: github.com/r3dbyt3/plugin-requesturl
+import: github.com/R3dByt3/plugin-requesturl
 summary: Adds a X-Request-URL header to incoming requests
 
 testData: {}
